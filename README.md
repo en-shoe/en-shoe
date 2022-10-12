@@ -1,5 +1,7 @@
 Mechanical Engineer by trade
 
-Currently learning Python, emphasis in data science, data analysis, and ML
+Experience in python, matlab, and VBA
 
-Other small projects on the side.
+Emphasis on data analysis, statistics, and data science.
+
+Other small projects on the side - general software
